@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "name": "Rel\u00f3gio Elegante",
+      "price": 50.99,
+      "image": "https://source.unsplash.com/featured/?watch"
+    },
+    {
+      "id": 2,
+      "name": "C\u00e2mera Vintage",
+      "price": 85.5,
+      "image": "https://source.unsplash.com/featured/?camera"
+    },
+    {
+      "id": 3,
+      "name": "Fones de Ouvido",
+      "price": 35.99,
+      "image": "https://source.unsplash.com/featured/?headphones"
+    },
+    {
+      "id": 4,
+      "name": "T\u00eanis de Corrida",
+      "price": 120.0,
+      "image": "https://source.unsplash.com/featured/?sneakers"
+    },
+    {
+      "id": 5,
+      "name": "Smartphone",
+      "price": 299.99,
+      "image": "https://source.unsplash.com/featured/?smartphone"
+    },
+    {
+      "id": 6,
+      "name": "Livro de Aventura",
+      "price": 19.99,
+      "image": "https://source.unsplash.com/featured/?book"
+    },
+    {
+        "id": 7,
+        "name": "O lado feio do amor",
+        "price": 29.99,
+        "image": "https://m.media-amazon.com/images/I/51RT++oGS6L._SY445_SX342_.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Celular Xiaomi",
+        "price": 859.99,
+        "image": "https://m.media-amazon.com/images/I/61GrsBwpM5L._AC_SL1500_.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Ventilador de mesa",
+        "price": 200.00,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/613mijN0uIL._AC_UL450_SR450,320_.jpg"
+    }
+  ]
